@@ -22,7 +22,7 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - Travel mobile app for trip requests, increasing booking efficiency by 30%.  
 - **Tech**: Flutter, Laravel, Firebase  
 - [Android Link](https://play.google.com/store/apps/details?id=com.silverfleetltd.app)  
-- [iOS Link](#)
+- [iOS Link](https://apps.apple.com/gb/app/silver-fleet/id6462056359)
 
 <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/sf1.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/sfa.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/sfc.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/sfmap.webp" align="center" height="550" width="250"/>
 
@@ -30,7 +30,7 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - Government app for streaming parliament sessions, news, and documents, enhancing public access.  
 - **Tech**: Flutter, Laravel, Firebase  
 - [Android Link](https://play.google.com/store/apps/details?id=parliament.go.ug)  
-- [iOS Link](#)
+- [iOS Link](https://apps.apple.com/us/app/parliament-of-uganda/id6502588988)
 
 <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/parl1.jpg" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/parl2.jpg" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/parl3.jpg" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/parl4.jpg" align="center" height="550" width="250"/>
 
@@ -46,7 +46,7 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - Music and podcast streaming app, boosting user engagement by 20%.  
 - **Tech**: Flutter, Laravel  
 - [Android Link](https://play.google.com/store/apps/details?id=com.ieromebrothers.com.liveitup)  
-- [iOS Link](#)
+- [iOS Link](https://apps.apple.com/us/app/live-it-up/id6462687792)
 
 <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/live.png" align="center" height="550" width="250"/> 
 
@@ -86,7 +86,14 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 
 ### 🌍 **Websites**
 
-#### [Uganda 10 Cities Websites]
+#### My Portifolio Website
+- Designed and developed a personal portfolio website showcasing my app and web development projects. Integrated dynamic animations, interactive elements, and modern web technologies to create a responsive, engaging user experience.  
+- **Tech**: Nextjs, Typescript, Tailwind CSS
+- [URL](https://kalemamark.vercel.app/)
+
+<img src="https://github.com/MarkRoi/MarkRoi/blob/b1b7fa2ef1c56a95354cf823085da0c24e9afb8d/images/portfolio.png" align="center" height="450" width="750"/>
+
+#### Uganda 10 Cities Websites
 - Dynamic websites for 10 Ugandan cities, boosting community engagement with local info.  
 - **Tech**: Drupal, PHP
 - [Lira City URL](https://liracity.go.ug)
@@ -106,14 +113,14 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - [Jinja City URL](https://jinjacity.go.ug)
 - [Mbale City URL](https://mbalecity.go.ug)
 
-#### [Cherubs International Christian School (CICS) Website]
+#### Cherubs International Christian School (CICS) Website
 - School website built with Laravel, improving online visibility by 30%.  
 - **Tech**: Laravel, PHP
 - [URL](https://cicsug.org)
 
 <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/cherubs.png" align="center" height="450" width="750"/>
 
-#### [Parliament of Uganda Website]
+#### Parliament of Uganda Website
 - Government app for streaming parliament sessions, news, and documents, enhancing public access.  
 - **Tech**: Drupal, Laravel, PHP
 - [URL](https://www.parliament.go.ug/)
@@ -139,7 +146,7 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 
 - **Email**: [kalemamark46@gmail.com](mailto:kalemamark46@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mark-kalema-51a8a5247](https://linkedin.com/in/mark-kalema-51a8a5247)
-- **Website**: [kalemamark.netlify.app](https://kalemamark.netlify.app)
+- **Website**: [kalemamark.vercel.app](https://kalemamark.vercel.app)
 - **GitHub**: [github.com/MarkRoi](https://github.com/MarkRoi)
 - **GitLab**: [gitlab.com/MarkRoi](https://gitlab.com/MarkRoi)
 
