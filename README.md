@@ -14,7 +14,7 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects (Mobile & Web)
 
 ### 📱 **Mobile Apps**
 
