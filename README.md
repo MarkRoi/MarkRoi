@@ -24,8 +24,8 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - [Android Link](https://play.google.com/store/apps/details?id=com.silverfleetltd.app)  
 - [iOS Link](#)
 
-<img src="https://gitlab.com/MarkRoi/MarkRoi/-/blob/d85320f0bfe4f7a77d248c6755371390b2b38caa/live.png" align="center" height="350" width="600"/>
-![image info](https://gitlab.com/MarkRoi/MarkRoi/-/blob/d85320f0bfe4f7a77d248c6755371390b2b38caa/live.png)
+<img src="https://github.com/MarkRoi/MarkRoi/blob/510d21390136fca4367dd7ea497ed6efa02315bd/sf.jpg" align="center" height="350" width="600"/>
+![image alt](https://github.com/MarkRoi/MarkRoi/blob/510d21390136fca4367dd7ea497ed6efa02315bd/sf.jpg)
 
 #### [Parliament of Uganda Mobile App](https://play.google.com/store/apps/details?id=parliament.go.ug)
 - Government app for streaming parliament sessions, news, and documents, enhancing public access.  
