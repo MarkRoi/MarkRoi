@@ -24,8 +24,7 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - [Android Link](https://play.google.com/store/apps/details?id=com.silverfleetltd.app)  
 - [iOS Link](#)
 
-<img src="https://github.com/MarkRoi/MarkRoi/blob/510d21390136fca4367dd7ea497ed6efa02315bd/sf.jpg" align="center" height="350" width="600"/>
-![image alt](https://github.com/MarkRoi/MarkRoi/blob/510d21390136fca4367dd7ea497ed6efa02315bd/sf.jpg)
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/sf1.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/sfa.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/sfc.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/sfmap.webp" align="center" height="550" width="250"/>
 
 #### [Parliament of Uganda Mobile App](https://play.google.com/store/apps/details?id=parliament.go.ug)
 - Government app for streaming parliament sessions, news, and documents, enhancing public access.  
@@ -33,11 +32,15 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - [Android Link](https://play.google.com/store/apps/details?id=parliament.go.ug)  
 - [iOS Link](#)
 
-#### [Code 3:16 App](https://play.google.com/store/apps/details?id=com.silverfleetltd.app)
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/parl1.jpg" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/parl2.jpg" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/parl3.jpg" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/parl4.jpg" align="center" height="550" width="250"/>
+
+#### [Code 3:16 App](#)
 - Financial transactions app for utility bills and offerings, speeding up transactions by 15%.  
 - **Tech**: Flutter, Laravel, Firebase  
-- [Android Link](https://play.google.com/store/apps/details?id=com.silverfleetltd.app)  
+- [Android Link](#)  
 - [iOS Link](#)
+
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/code.png" align="center" height="550" width="250"/> 
 
 #### [Live it Up App](https://play.google.com/store/apps/details?id=com.ieromebrothers.com.liveitup)
 - Music and podcast streaming app, boosting user engagement by 20%.  
@@ -45,11 +48,15 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - [Android Link](https://play.google.com/store/apps/details?id=com.ieromebrothers.com.liveitup)  
 - [iOS Link](#)
 
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/live.png" align="center" height="550" width="250"/> 
+
 #### [Elevate Pesa](https://play.google.com/store/apps/details?id=com.elevatepesa.app)
 - Shopping app for gas, water, and electronics with flexible payments, increasing retention by 25%.  
 - **Tech**: Flutter, Laravel, Firebase  
 - [Android Link](https://play.google.com/store/apps/details?id=com.elevatepesa.app)  
 - [iOS Link](#)
+
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/elevate1.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/elevate2.webp" align="center" height="550" width="250"/> 
 
 #### [School Wallet](https://play.google.com/store/apps/details?id=com.schoolwalletapp.app)
 - Smart card solution for student finances, reducing admin workload by 30%.  
@@ -57,24 +64,61 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - [Android Link](https://play.google.com/store/apps/details?id=com.schoolwalletapp.app)  
 - [iOS Link](#)
 
-#### [Citizens' Feedback Platform](https://play.google.com/store/apps/details?id=org.omnitech.citizen_feedback)
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/school1.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/school2.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/school3.webp" align="center" height="550" width="250"/>
+
+#### [Citizens' Feedback Platform (OAG CFP)](https://play.google.com/store/apps/details?id=org.omnitech.citizen_feedback)
 - Government app enabling real-time citizen feedback on government sectors and services, enhancing audit efficiency and service delivery oversight for the Auditor General. Improving transparency, accountability, and data-driven decision-making in public entities.  
 - **Tech**: Flutter, Laravel, Firebase  
 - [Android Link](https://play.google.com/store/apps/details?id=org.omnitech.citizen_feedback)  
 - [iOS Link](#)
 
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/oag1.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/oag2.webp" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/oag3.webp" align="center" height="550" width="250"/>
+
+### [UHF Med. Records & Reporting App](#)
+- Offline desktop/mobile app for patient data management, syncing with DHIS2, improving efficiency by 25%.  
+- **Tech**: Flutter, Laravel
+
+<img src="https://github.com/MarkRoi/MarkRoi/blob/7458fd395e1f22618df8abe15905f72649afbde6/images/mrdrs1.png" align="center" height="300" width="500"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/7458fd395e1f22618df8abe15905f72649afbde6/images/mrdrs2.jpg" align="center" height="300" width="500"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/7458fd395e1f22618df8abe15905f72649afbde6/images/mrdrs3.png" align="center" height="300" width="500"/>
+
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/mrdrs.jpg" align="center" height="550" width="250"/> 
+
 ---
 
 ### 🌍 **Websites**
 
-#### [Uganda 10 Cities Websites](https://liracity.go.ug)
+#### [Uganda 10 Cities Websites]
 - Dynamic websites for 10 Ugandan cities, boosting community engagement with local info.  
-- **Tech**: Drupal, PHP  
+- **Tech**: Drupal, PHP
+- [Lira City URL](https://liracity.go.ug)
+  
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/lira.png" align="center" height="450" width="750"/>
 
-#### [CICS Website](https://cicsug.org)
+- [Soroti City URL](https://soroticity.go.ug)
+  
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/soroti.png" align="center" height="450" width="750"/>
+
+- [Arua City URL](https://aruacity.go.ug)
+- [Gulu City URL](https://gulucity.go.ug)
+- [Fort Portal City URL](https://fortportalcity.go.ug)
+- [Masaka City URL](https://masakacity.go.ug)
+- [Mbarara City URL](https://mbararacity.go.ug)
+- [Hoima City URL](https://hoimacity.go.ug)
+- [Jinja City URL](https://jinjacity.go.ug)
+- [Mbale City URL](https://mbalecity.go.ug)
+
+#### [Cherubs International Christian School (CICS) Website]
 - School website built with Laravel, improving online visibility by 30%.  
 - **Tech**: Laravel, PHP
+- [URL](https://cicsug.org)
 
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/cherubs.png" align="center" height="450" width="750"/>
+
+#### [Parliament of Uganda Website]
+- Government app for streaming parliament sessions, news, and documents, enhancing public access.  
+- **Tech**: Drupal, Laravel, PHP
+- [URL](https://www.parliament.go.ug/)
+
+<img src="https://github.com/MarkRoi/MarkRoi/blob/7458fd395e1f22618df8abe15905f72649afbde6/images/parlweb.png" align="center" height="450" width="750"/>
 
 ---
 
