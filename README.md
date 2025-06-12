@@ -40,7 +40,7 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 - [Android Link](#)  
 - [iOS Link](#)
 
-<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/code.png" align="center" height="550" width="250"/> 
+<img src="https://github.com/MarkRoi/MarkRoi/blob/d0d93ee5d1473d57012df3af0218a17db938aec4/images/code.png" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/e63f3e322244f196727d1c4b3d30a765e3e17469/images/code2.jpg" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/e63f3e322244f196727d1c4b3d30a765e3e17469/images/code3.jpg" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/e63f3e322244f196727d1c4b3d30a765e3e17469/images/code4.jpg" align="center" height="550" width="250"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/e63f3e322244f196727d1c4b3d30a765e3e17469/images/code5.jpg" align="center" height="550" width="250"/> 
 
 #### [Live it Up App](https://play.google.com/store/apps/details?id=com.ieromebrothers.com.liveitup)
 - Music and podcast streaming app, boosting user engagement by 20%.  
