@@ -14,7 +14,18 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 
 ---
 
-## 🌟 Featured Projects (Mobile & Web)
+## 🌟 Featured Projects (Data science, Mobile & Web)
+
+### 🤖 **Data Science & Machine Learning**
+
+#### [California Housing Price Prediction](https://github.com/MarkRoi/ml-scikit-learn-housing)
+- End-to-end ML pipeline predicting California housing prices with 80.5% accuracy (R² score).
+- **Tech**: Python, Scikit-learn, Matplotlib, Seaborn, Joblib
+- **Key Features**: Feature engineering, model comparison (GBR vs RF vs Linear), comprehensive visualizations
+- **Insights**: Gradient Boosting outperformed other models; polynomial features improved linear regression by 33%
+- [View Project](https://github.com/MarkRoi/ml-scikit-learn-housing)
+
+<img src="https://github.com/MarkRoi/MarkRoi/blob/48c84b20c23ef3d3b254fb0afae18e0d3cd36430/images/feature_corr_heatmap.png" align="center" height="250" width="320"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/48c84b20c23ef3d3b254fb0afae18e0d3cd36430/images/model_comparison_r2_scores.png" align="center" height="250" width="320"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/48c84b20c23ef3d3b254fb0afae18e0d3cd36430/images/act_vs_pred_scatter.png" align="center" height="250" width="320"/>
 
 ### 📱 **Mobile Apps**
 
