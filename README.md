@@ -19,7 +19,7 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 ### 🤖 **Data Science & Machine Learning**
 
 #### [California Housing Price Prediction](https://github.com/MarkRoi/scikit-learn-housing)
-- End-to-end ML pipeline predicting California housing prices with 80.5% accuracy (R² score).
+- End-to-end ML pipeline predicting California housing prices with 84% accuracy (R² score).
 - **Tech**: Python, Scikit-learn, Matplotlib, Seaborn, Joblib
 - **Key Features**: Feature engineering, model comparison (GBR vs RF vs Linear), comprehensive visualizations
 - **Insights**: Gradient Boosting outperformed other models; polynomial features improved linear regression by 33%
