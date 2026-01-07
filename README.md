@@ -18,6 +18,44 @@ I'm a passionate **Software Engineer** and **MSc Data Science** student at the U
 
 ### 🤖 **Data Science & Machine Learning**
 
+#### [UK Customer Churn Prediction & Retention Analytics](https://github.com/MarkRoi/uk-customer-churn-prediction)
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
+[![Status](https://img.shields.io/badge/Status-In_Progress-yellow)]()
+[![License](https://img.shields.io/badge/License-MIT-green)]()
+
+- Real-time customer churn prediction for UK financial institutions.  
+- Identifying at-risk customers 30-60 days before churn with actionable retention strategies.
+- [View Project](https://github.com/MarkRoi/uk-customer-churn-prediction)
+
+Project Status: Actively Developing 🚧
+
+**Current Phase:** Model optimization & deployment pipeline  
+**Next Milestone:** Cloud deployment & A/B testing framework  
+
+**What's Working:**
+- Complete ML pipeline (data → preprocessing → modeling → evaluation)
+- Interactive Streamlit dashboard
+- Multiple ML models
+- Business impact analysis
+
+**Currently Working On:**
+- Feature alignment for production deployment
+- Model interpretability with SHAP values
+- Automated retraining pipeline
+- UK regional analysis enhancements
+
+**Roadmap:**
+- [x] Data generation & preprocessing pipeline
+- [x] Model training & evaluation framework
+- [x] Interactive dashboard (Streamlit)
+- [ ] Production deployment (FastAPI + Docker)
+- [ ] Automated monitoring & retraining
+- [ ] A/B testing framework
+
+<img src="https://github.com/MarkRoi/MarkRoi/blob/013a171ffbe5c63c792d1b557941832deec49fd0/images/churn.png" align="center" height="650" width="350"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/013a171ffbe5c63c792d1b557941832deec49fd0/images/churn2.png" align="center" height="650" width="350"/> <img src="https://github.com/MarkRoi/MarkRoi/blob/013a171ffbe5c63c792d1b557941832deec49fd0/images/churn3.png" align="center" height="650" width="350"/>
+
+
 #### [California Housing Price Prediction](https://github.com/MarkRoi/scikit-learn-housing)
 - End-to-end ML pipeline predicting California housing prices with 84% accuracy (R² score).
 - **Tech**: Python, Scikit-learn, Matplotlib, Seaborn, Joblib
